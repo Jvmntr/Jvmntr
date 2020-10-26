@@ -32,7 +32,7 @@
 <ul>
   <li><strong>Email -<strong> jvmntr.email.com@gmail.com</li>
   <li><strong>Linkedin -<strong> linkedin.com/in/jvmntr</li>
-<ul>
+</ul>
 
 ---
 
