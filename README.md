@@ -18,7 +18,7 @@
   📖 Estudando
 </h3>
 <ul>
-  <li<img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" alt='Node.JS Icon' align="left"/></li>
+  <li><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" alt='Node.JS Icon' align="left"/></li>
   <li><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt='React Icon' align="left"/></li>
 </ul>
 
