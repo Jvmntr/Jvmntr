@@ -10,7 +10,7 @@
 <ul>
   <li><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" alt="Visual Studio Code Icon" align="left"/></li>
   <li><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" alt="HTML Icon" align="left"/></li> 
-  <li><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" alt="HTML Icon" align="left"/></li>
+  <li><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" alt="CSS Icon" align="left"/></li>
   <li><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="Javascript Icon" align="left"/></li>
 </ul>
 
