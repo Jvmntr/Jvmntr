@@ -4,6 +4,8 @@
 
 <p>Oi Meu nome é João Victor Monteiro, eu tenho 17 anos e sou estudante de programação. </p>
 
+---
+
 <h3>
   🎓 Tecnologias e Ferramentas
 </h3>
@@ -22,6 +24,7 @@
   <li><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt='React Icon' align="left"/></li>
 </ul>
 
+---
 
 <h3>
  📞 Contato
@@ -31,6 +34,9 @@
   <li><strong>Linkedin -<strong> linkedin.com/in/jvmntr</li>
 <ul>
 
+---
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jvmntr)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Jvmntr/Jvmntr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
