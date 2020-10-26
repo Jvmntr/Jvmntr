@@ -1,5 +1,5 @@
 <h3>
-  <strong>Oi, eu me chamo João Victor Monteiro e esse aqui é o meu perfil :D</strong>
+  <strong>Oi fico feliz em te ver aqui, tudo tranquilo? :D</strong>
 </h3>  
 
 <!--
