@@ -2,7 +2,7 @@
   <strong>Oi fico feliz em te ver aqui, tudo tranquilo?</strong>😄
 </h3>  
 
-<p>Oi Meu nome é João Victor Monteiro, eu tenho 17 anos e sou estudante de programação. </p>
+<p>Meu nome é João Victor Monteiro, eu tenho 17 anos e sou estudante de programação. </p>
 
 ---
 
