@@ -34,7 +34,6 @@
   <li><strong>Linkedin -<strong> linkedin.com/in/jvmntr</li>
 <ul>
 
-
 ---
 
 <h3>
@@ -48,8 +47,6 @@
 <p>My name is João Victor Monteiro, I'm 17 years old and I'm a programming student. </p>
 
 ---
-
-
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jvmntr)](https://github.com/anuraghazra/github-readme-stats)
 
