@@ -9,7 +9,7 @@
 </h3>
 <ul>
   <li>Visual Studio Code</li>
-  <li>HTML5</li>
+  <li>HTML5 <img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" alt="HTML Icon" align="left"/></li> 
   <li>CSS3</li>
   <li>javaScript</li>
 </ul>
