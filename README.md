@@ -34,7 +34,7 @@
   <li><strong>Linkedin -<strong> linkedin.com/in/jvmntr</li>
 <ul>
 
----
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jvmntr)](https://github.com/anuraghazra/github-readme-stats)
 
