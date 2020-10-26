@@ -7,7 +7,7 @@
 ---
 
 <h3>
-  🎓 Tecnologias e Ferramentas
+  🎓 Tecnologias e Ferramentas | Technologies and tools
 </h3>
 <ul>
   <li><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" alt="Visual Studio Code Icon" align="left"/></li>
@@ -17,7 +17,7 @@
 </ul>
 
 <h3>
-  📖 Estudando
+  📖 Estudando | Studying
 </h3>
 <ul>
   <li><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" alt='Node.JS Icon' align="left"/></li>
@@ -27,12 +27,27 @@
 ---
 
 <h3>
- 📞 Contato
+ 📞 Contato | Contact
 </h3>
 <ul>
   <li><strong>Email -<strong> jvmntr.email.com@gmail.com</li>
   <li><strong>Linkedin -<strong> linkedin.com/in/jvmntr</li>
 <ul>
+
+
+---
+
+<h3>
+ 🌎 English Section
+</h3>
+
+<h3>
+  <strong>Hi, I'm happy to see you here, how are you?</strong>😄
+</h3>  
+
+<p>My name is João Victor Monteiro, I'm 17 years old and I'm a programming student. </p>
+
+---
 
 
 
