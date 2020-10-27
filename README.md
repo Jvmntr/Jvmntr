@@ -37,14 +37,7 @@
 </h3>
 <ul>
   <li><strong>Email -<strong> jvmntr.email.com@gmail.com</li>
-  <li><strong>Linkedin -<strong> linkedin.com/in/jvmntr</li>
 </ul>
-
-<p align="left">
-<a href="https://twitter.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://instagram.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
-</p>
 
 ---
 
@@ -61,6 +54,14 @@
 ---
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jvmntr)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+<p align="center">
+<a href="https://twitter.com/Jvmntr_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/jvmntr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://instagram.com/jvmntr_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
+</p>
 
 <!--
 **Jvmntr/Jvmntr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
