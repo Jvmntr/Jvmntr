@@ -9,20 +9,20 @@
 <h3>
   🎓 Tecnologias e Ferramentas | Technologies and tools
 </h3>
-<ul>
-  <li><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" alt="Visual Studio Code Icon" align="left"/></li>
-  <li><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" alt="HTML Icon" align="left"/></li> 
-  <li><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" alt="CSS Icon" align="left"/></li>
-  <li><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="Javascript Icon" align="left"/></li>
-</ul>
+
+  <img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" alt="Visual Studio Code Icon" align="left"/>
+  <img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" alt="HTML Icon" align="left"/>
+  <img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" alt="CSS Icon" align="left"/>
+  <img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="Javascript Icon" align="left"/>
+
 
 <h3>
   📖 Estudando | Studying
 </h3>
-<ul>
-  <li><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" alt='Node.JS Icon' align="left"/></li>
-  <li><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt='React Icon' align="left"/></li>
-</ul>
+
+  <img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" alt='Node.JS Icon' align="left"/>
+  <img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt='React Icon' align="left"/>
+
 
 ---
 
