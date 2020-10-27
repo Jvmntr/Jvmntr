@@ -9,12 +9,12 @@
 <h3>
   🎓 Tecnologias e Ferramentas | Technologies and tools
 </h3>
-<ul>
-  <li><img height="22" width="22" src="imgs/vsc.png" alt="Visual Studio Code Icon" align="left"/></li>
-  <li><img height="22" width="22" src="imgs/html.png" alt="HTML Icon" align="left"/></li>
-  <li><img height="22" width="22" src="imgs/css.png" alt="CSS Icon" align="left"/></li>
-  <li><img height="22" width="22" src="imgs/js.png" alt="Javascript Icon" align="left"/></li>
-</ul>
+
+  <img height="22" width="22" src="imgs/vsc.png" alt="Visual Studio Code Icon" align="left"/>
+  <img height="22" width="22" src="imgs/html.png" alt="HTML Icon" align="left"/>
+  <img height="22" width="22" src="imgs/css.png" alt="CSS Icon" align="left"/>
+  <img height="22" width="22" src="imgs/js.png" alt="Javascript Icon" align="left"/>
+
   
 --- 
 
@@ -23,10 +23,10 @@
   📖 Estudando | Studying
 </h3>
 
-<ul>
-  <li><img height="22" width="22" src="imgs/node.png" alt='Node.JS Icon' align="left"/></li>
-  <li><img height="22" width="22" src="imgs/react.png" alt='React Icon' align="left"/></li>
-</ul>
+
+  <img height="22" width="22" src="imgs/node.png" alt='Node.JS Icon' align="left"/>
+  <img height="22" width="22" src="imgs/react.png" alt='React Icon' align="left"/>
+
 
 
 ---
