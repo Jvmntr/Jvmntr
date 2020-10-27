@@ -10,10 +10,10 @@
   🎓 Tecnologias e Ferramentas | Technologies and tools
 </h3>
 <ul>
-  <li><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" alt="Visual Studio Code Icon" align="left"/></li>
-  <li><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" alt="HTML Icon" align="left"/></li>
-  <li><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" alt="CSS Icon" align="left"/></li>
-  <li><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="Javascript Icon" align="left"/></li>
+  <li><img height="22" width="22" src="imgs/vsc.png" alt="Visual Studio Code Icon" align="left"/></li>
+  <li><img height="22" width="22" src="imgs/html.png" alt="HTML Icon" align="left"/></li>
+  <li><img height="22" width="22" src="imgs/css.png" alt="CSS Icon" align="left"/></li>
+  <li><img height="22" width="22" src="imgs/js.png" alt="Javascript Icon" align="left"/></li>
 </ul>
   
 --- 
@@ -24,8 +24,8 @@
 </h3>
 
 <ul>
-  <li><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" alt='Node.JS Icon' align="left"/></li>
-  <li><img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" alt='React Icon' align="left"/></li>
+  <li><img height="22" width="22" src="imgs/node.png" alt='Node.JS Icon' align="left"/></li>
+  <li><img height="22" width="22" src="imgs/react.png" alt='React Icon' align="left"/></li>
 </ul>
 
 
