@@ -14,6 +14,8 @@
   <img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" alt="HTML Icon" align="left"/>
   <img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" alt="CSS Icon" align="left"/>
   <img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="Javascript Icon" align="left"/>
+  
+--- 
 
 
 <h3>
