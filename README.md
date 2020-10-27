@@ -36,7 +36,7 @@
  📞 Contato | Contact
 </h3>
 <ul>
-  <li><strong>Email -<strong> jvmntr.email.com@gmail.com</li>
+  <li><strong>Email -<strong> jvmntr.email.com@gmail.com <a href="mailto:jvmntr.email.com@gmail.com" target="blank"><img align="center" src="http://simpleicons.org/icons/gmail.svg" alt="maykbrito" height="20" width="20" /></a></li>
 </ul>
 
 ---
@@ -62,6 +62,7 @@
 <a href="https://linkedin.com/in/jvmntr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
 <a href="https://instagram.com/jvmntr_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
 </p>
+
 
 <!--
 **Jvmntr/Jvmntr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
