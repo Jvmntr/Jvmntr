@@ -26,7 +26,8 @@
 
 <ul>
   <li><img height="22" width="22" src="imgs/node.png" alt='Node.JS Icon' align="left"/></li>
-  <li><img height="22" width="22" src="imgs/react.png" alt='React Icon' align="left"/></li>
+  <li><img height="22" width="22" src="imgs/reactn.png" alt='React Icon' align="left"/></li>
+  <li><img height="22" width="22" src="imgs/ts.png" alt='TypeScript Icon' align="left"/></li>
 </ul>
 
 
