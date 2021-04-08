@@ -61,10 +61,10 @@
 ---
 
 <p align="left">
-<a href="https://twitter.com/Jvmntr_" target="blank"><img align="center" src="imgs/tt.png" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/jvmntr" target="blank"><img align="center" src="linkedin.png" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://instagram.com/jvmntr_" target="blank"><img align="center" src="imgs/insta.png" alt="maykbrito" height="20" width="20" /></a>
-<a href="mailto:jvmntr.email.com@gmail.com" target="blank"><img align="center" src="imgs/gmail.png" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://twitter.com/Jvmntr_" target="blank"><img align="center" src="imgs/tt.png" alt="Twitter Icon" height="22" width="22" /></a>
+<a href="https://linkedin.com/in/jvmntr" target="blank"><img align="center" src="linkedin.png" alt="Linkedin Icon" height="22" width="22" /></a>
+<a href="https://instagram.com/jvmntr_" target="blank"><img align="center" src="imgs/insta.png" alt="Insta icon" height="22" width="22" /></a>
+<a href="mailto:jvmntr.email.com@gmail.com" target="blank"><img align="center" src="imgs/gmail.png" alt="Gmail Icon" height="22" width="22" /></a>
 </p>
 
 
