@@ -61,10 +61,10 @@
 ---
 
 <p align="left">
-<a href="https://twitter.com/Jvmntr_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/jvmntr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://instagram.com/jvmntr_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="mailto:jvmntr.email.com@gmail.com" target="blank"><img align="center" src="http://simpleicons.org/icons/gmail.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://twitter.com/Jvmntr_" target="blank"><img align="center" src="imgs/tt.png" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/jvmntr" target="blank"><img align="center" src="linkedin.png" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://instagram.com/jvmntr_" target="blank"><img align="center" src="imgs/insta.png" alt="maykbrito" height="20" width="20" /></a>
+<a href="mailto:jvmntr.email.com@gmail.com" target="blank"><img align="center" src="imgs/gmail.png" alt="maykbrito" height="20" width="20" /></a>
 </p>
 
 
