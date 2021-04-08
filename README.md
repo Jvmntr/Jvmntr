@@ -12,7 +12,7 @@
 
 <ul>
   <li><img height="22" width="22" src="imgs/vsc.png" alt="Visual Studio Code Icon" align="left"/></li>
-  <li><img height="22" width="22" src="https://camo.githubusercontent.com/9599dc988280bea2ca5c44c4796f13494f9ff3f7/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2d776f72646d61726b2e737667" alt="HTML Icon" align="left"/></li>
+  <li><img height="22" width="22" src="imgs/html.png" alt="HTML Icon" align="left"/></li>
   <li><img height="22" width="22" src="https://camo.githubusercontent.com/5712bffd0347cc2744de599dc54473dc1ebbfe82/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f637373332f637373332d6f726967696e616c2d776f72646d61726b2e737667" alt="CSS Icon" align="left"/></li>
   <li><img height="22" width="22" src="https://camo.githubusercontent.com/14758df13e2b9c312a5b911d3bb8b7418f7a8c3c/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" alt="Javascript Icon" align="left"/></li>
 </ul>
