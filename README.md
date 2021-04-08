@@ -64,7 +64,6 @@
 <a href="https://twitter.com/Jvmntr_" target="blank"><img align="center" src="imgs/tt.png" alt="Twitter Icon" height="22" width="22" /></a>
 <a href="https://linkedin.com/in/jvmntr" target="blank"><img align="center" src="imgs/linkedin.png" alt="Linkedin Icon" height="22" width="22" /></a>
 <a href="https://instagram.com/jvmntr_" target="blank"><img align="center" src="imgs/insta.png" alt="Insta icon" height="22" width="22" /></a>
-<a href="mailto:jvmntr.email.com@gmail.com" target="blank"><img align="center" src="imgs/gmail.png" alt="Gmail Icon" height="22" width="22" /></a>
 </p>
 
 
