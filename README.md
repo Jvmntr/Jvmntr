@@ -13,8 +13,8 @@
 <ul>
   <li><img height="22" width="22" src="imgs/vsc.png" alt="Visual Studio Code Icon" align="left"/></li>
   <li><img height="22" width="22" src="imgs/html.png" alt="HTML Icon" align="left"/></li>
-  <li><img height="22" width="22" src="https://camo.githubusercontent.com/5712bffd0347cc2744de599dc54473dc1ebbfe82/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f637373332f637373332d6f726967696e616c2d776f72646d61726b2e737667" alt="CSS Icon" align="left"/></li>
-  <li><img height="22" width="22" src="https://camo.githubusercontent.com/14758df13e2b9c312a5b911d3bb8b7418f7a8c3c/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" alt="Javascript Icon" align="left"/></li>
+  <li><img height="22" width="22" src="imgs/css.png" alt="CSS Icon" align="left"/></li>
+  <li><img height="22" width="22" src="imgs/js.png" alt="Javascript Icon" align="left"/></li>
 </ul>
   
 --- 
@@ -25,8 +25,8 @@
 </h3>
 
 <ul>
-  <li><img height="22" width="22" src="https://camo.githubusercontent.com/ab047aab3d605de3382a853eeeebc583dd37890d/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667" alt='Node.JS Icon' align="left"/></li>
-  <li><img height="22" width="22" src="https://camo.githubusercontent.com/4683d18a4a9f845dd7de377a6915dcfc9739a661/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f72656163742f72656163742d6f726967696e616c2d776f72646d61726b2e737667" alt='React Icon' align="left"/></li>
+  <li><img height="22" width="22" src="imgs/node.png" alt='Node.JS Icon' align="left"/></li>
+  <li><img height="22" width="22" src="imgs/react.png" alt='React Icon' align="left"/></li>
 </ul>
 
 
