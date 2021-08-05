@@ -2,7 +2,7 @@
   <strong>Oi fico feliz em te ver aqui, tudo tranquilo?</strong>😄
 </h3>  
 
-<p>Meu nome é João Victor Monteiro, eu tenho 17 anos e sou estudante de programação. </p>
+<p>Meu nome é João Victor Monteiro, eu tenho 18 anos e sou estudante de programação. </p>
 
 ---
 
@@ -50,7 +50,7 @@
   <strong>Hi, I'm happy to see you here, how are you?</strong>😄
 </h3>  
 
-<p>My name is João Victor Monteiro, I'm 17 years old and I'm a programming student. </p>
+<p>My name is João Victor Monteiro, I'm 18 years old and I'm a programming student. </p>
 
 ---
 
