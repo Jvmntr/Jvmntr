@@ -2,7 +2,7 @@
   <strong>Oi fico feliz em te ver aqui, tudo tranquilo?</strong>😄
 </h3>  
 
-<p>Meu nome é João Victor Monteiro, eu tenho 19 anos e sou estudante de análise e desenvolvimento de sistemas na FIAP </p>
+<p>Meu nome é João Victor Monteiro, eu tenho 20 anos e sou estudante de análise e desenvolvimento de sistemas na FIAP </p>
 
 ---
 
