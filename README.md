@@ -53,18 +53,19 @@
 <p>My name is João Victor Monteiro, I'm 19 years old and I'm a programming student. </p>
 
 ---
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jvmntr)](https://github.com/anuraghazra/github-readme-stats)
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jvmntr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jvmntr)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
 <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/61757615/231557737-2903cb13-fb65-4824-ad09-431821364d2c.png" width="100px" alt="Jvmntr's perfil photo"/>
 
-[![Twitter Badge](https://img.shields.io/badge/-@Jvmntr_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Jvmntr_)](https://twitter.com/Jvmntr_) 
-[![Linkedin Badge](https://img.shields.io/badge/-Jvmntr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvmntr_/)](https://www.linkedin.com/in/jvmntr/) 
+[![Twitter Badge](https://img.shields.io/badge/-@Jvmntr_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Jvmntr_)](https://twitter.com/Jvmntr_) <br>
+[![Linkedin Badge](https://img.shields.io/badge/-Jvmntr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvmntr_/)](https://www.linkedin.com/in/jvmntr/) <br>
 [![Gmail Badge](https://img.shields.io/badge/-jvmntr.email.com@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jvmntr.email.com@gmail.com)](mailto:jvmntr.email.com@gmail.com)
 
 <!--
