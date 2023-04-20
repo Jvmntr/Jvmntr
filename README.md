@@ -61,12 +61,11 @@
 
 ---
 
-<p align="left">
-<a href="https://twitter.com/Jvmntr_" target="blank"><img align="center" src="imgs/tt.png" alt="Twitter Icon" height="22" width="22" /></a>
-<a href="https://linkedin.com/in/jvmntr" target="blank"><img align="center" src="imgs/linkedin.png" alt="Linkedin Icon" height="22" width="22" /></a>
-<a href="https://instagram.com/jvmntr_" target="blank"><img align="center" src="imgs/insta.png" alt="Insta icon" height="22" width="22" /></a>
-</p>
+<img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/61757615/231557737-2903cb13-fb65-4824-ad09-431821364d2c.png" width="100px" alt="Jvmntr's perfil photo"/>
 
+[![Twitter Badge](https://img.shields.io/badge/-@Jvmntr_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Jvmntr_)](https://twitter.com/Jvmntr_) 
+[![Linkedin Badge](https://img.shields.io/badge/-Jvmntr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvmntr_/)](https://www.linkedin.com/in/jvmntr/) 
+[![Gmail Badge](https://img.shields.io/badge/-jvmntr.email.com@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jvmntr.email.com@gmail.com)](mailto:jvmntr.email.com@gmail.com)
 
 <!--
 **Jvmntr/Jvmntr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
