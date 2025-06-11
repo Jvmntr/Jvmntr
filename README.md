@@ -48,7 +48,7 @@ Atuo do front ao back, unindo design funcional e código eficiente.
 **Análise e desenvolvimento de sistemas** \
 [**FIAP**](https://www.fiap.com.br/) <br>
 Período • fev de 2022 - Fev de 2024 <br>
-A FIAP é uma faculdade referência em tecnologia. O curso de ADS foca em programação, sistemas e inovação com forte inserção no mercado.<br><br>
+A FIAP é uma faculdade referência em tecnologia. O curso de ADS foca em programação, sistemas e inovação.<br><br>
 
 
 # 💼 Experiência profissional
@@ -58,7 +58,7 @@ A FIAP é uma faculdade referência em tecnologia. O curso de ADS foca em progra
 **Desenvolvedor de Software Fullstack** \
 [**IBM**](https://www.ibm.com/br-pt) • Full-time <br>
 Período • Jan de 2022 - Fev de 2025 <br>
-Linguagens & Tecnologias: `ReactJS`, `NodeJS`, `Typescript`, `JavaScript`, `PostgreSQL`, `React Native`, `MongoDB`, `Java`, `Jest`
+Linguagens & Tecnologias: `ReactJS`, `NodeJS`, `Typescript`, `JavaScript`, `PostgreSQL`, `React Native`, `MongoDB`, `Java`, `Jest`<br><br>
 
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/jvmntr/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação. <br><br>
