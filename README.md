@@ -20,9 +20,12 @@ Atuo do front ao back, unindo design funcional e código eficiente.
 **Back-end**
 
 ![NodeJS](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb)
+
+
 
 **Utilidades**
 
