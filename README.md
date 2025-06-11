@@ -46,8 +46,10 @@ Atuo do front ao back, unindo design funcional e código eficiente.
 [<img align="left" height="94px" width="94px" alt="FIAP" src="https://avatars.githubusercontent.com/u/79948663?s=200&v=4"/>](https://www.spacex.com/)
 
 **Análise e desenvolvimento de sistemas** \
-[**FIAP**](https://www.fiap.com.br/) 
-Período • fev de 2022 - Fev de 2024 <br><br><br>
+[**FIAP**](https://www.fiap.com.br/) <br>
+Período • fev de 2022 - Fev de 2024 <br>
+A FIAP é uma faculdade referência em tecnologia. O curso de ADS foca em programação, sistemas e inovação com forte inserção no mercado.<br><br>
+
 
 # 💼 Experiência profissional
 
@@ -59,7 +61,7 @@ Período • Jan de 2022 - Fev de 2025 <br>
 Linguagens & Tecnologias: `ReactJS`, `NodeJS`, `Typescript`, `JavaScript`, `PostgreSQL`, `React Native`, `MongoDB`, `Java`, `Jest`
 
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/jvmntr/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação. <br>
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/jvmntr/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação. <br><br>
 
 # 📊 Github Stats
 
