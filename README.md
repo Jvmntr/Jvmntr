@@ -1,16 +1,61 @@
 
-# 👨🏻‍💻 About me:
-21 | Sao Paulo-SP <br><br>
-🎓 Graduated in Systems Analysis and Development at FIAP <br>
+# 👨🏻‍💻 Sobre mim
 
-# 📖 Technologies and tools
- ![react](https://img.shields.io/badge/react-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white) ![angular](https://img.shields.io/badge/angular-%23DD1100.svg?style=for-the-badge&logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)<br> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Jest](https://img.shields.io/badge/jest-%23ED8B00.svg?style=for-the-badge&logo=jest&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)<br>  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Microsoft-Azure](https://img.shields.io/badge/microsoft_azure-%231572B6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![NextJS](https://img.shields.io/badge/NextJS-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![mongodb](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+Desenvolvedor fullstack com 3 anos de experiência, criando soluções web completas com foco em performance e boas práticas.
+Atuo do front ao back, unindo design funcional e código eficiente.
 
-# 📞 Contato | Contact
+# 💼 Experiência profissional
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jvmntr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvmntr_/)](https://www.linkedin.com/in/jvmntr/)
-[![Gmail Badge](https://img.shields.io/badge/-jvmntr.email.com@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jvmntr.email.com@gmail.com)](mailto:jvmntr.email.com@gmail.com)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://t.ctcdn.com.br/npouwF-3wxH1Bq5QyNtmaLKCPBM=/1080x1080/smart/i654119.png"/>](https://www.spacex.com/)
 
+**Desenvolvedor de Software Fullstack** \
+[**IBM**](https://www.ibm.com/br-pt) • Full-time <br>
+Período • Jan de 2022 - Fev de 2025 <br>
+Linguagens & Tecnologias: `ReactJS`, `NodeJS`, `Typescript`, `JavaScript`, `PostgreSQL`, `React Native`, `MongoDB`, `Java`, `Jest`
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/jvmntr/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação. <br>
+
+# 📖 Tecnologias
+
+**Front-end**
+
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Typescript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Styled-Components](https://img.shields.io/badge/styled--components-333333?style=flat&logo=styled-components)
+
+**Back-end**
+
+![NodeJS](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb)
+
+**Utilidades**
+
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/jvmntr" title="Perfil do João 'Jvmntr' Monteiro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvmntr&theme=tokyonight&show_icons=true" />
+</a>
 
 <!--
 **Jvmntr/Jvmntr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
