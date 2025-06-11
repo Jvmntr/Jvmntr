@@ -25,7 +25,10 @@ Atuo do front ao back, unindo design funcional e código eficiente.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb)
 
+**Cloud**
 
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-333333?style=flat&logo=amazon-aws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-333333?style=flat&logo=microsoft-azure&logoColor=white)
 
 **Utilidades**
 
