@@ -4,16 +4,6 @@
 Desenvolvedor fullstack com 3 anos de experiência, criando soluções web completas com foco em performance e boas práticas.
 Atuo do front ao back, unindo design funcional e código eficiente.
 
-# 💼 Experiência profissional
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://t.ctcdn.com.br/npouwF-3wxH1Bq5QyNtmaLKCPBM=/1080x1080/smart/i654119.png"/>](https://www.spacex.com/)
-
-**Desenvolvedor de Software Fullstack** \
-[**IBM**](https://www.ibm.com/br-pt) • Full-time <br>
-Período • Jan de 2022 - Fev de 2025 <br>
-Linguagens & Tecnologias: `ReactJS`, `NodeJS`, `Typescript`, `JavaScript`, `PostgreSQL`, `React Native`, `MongoDB`, `Java`, `Jest`
-
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/jvmntr/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação. <br>
 
 # 📖 Tecnologias
 
@@ -51,11 +41,48 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/jvmntr/) para u
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-<br/>
+# 💼 Experiência profissional
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://t.ctcdn.com.br/npouwF-3wxH1Bq5QyNtmaLKCPBM=/1080x1080/smart/i654119.png"/>](https://www.spacex.com/)
+
+**Desenvolvedor de Software Fullstack** \
+[**IBM**](https://www.ibm.com/br-pt) • Full-time <br>
+Período • Jan de 2022 - Fev de 2025 <br>
+Linguagens & Tecnologias: `ReactJS`, `NodeJS`, `Typescript`, `JavaScript`, `PostgreSQL`, `React Native`, `MongoDB`, `Java`, `Jest`
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/jvmntr/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação. <br>
+
+# 📊 Github Stats
+
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=jvmntr&theme=tokyonight&show_icons=true" 
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvmntr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=jvmntr&theme=tokyonight&hide_border=false" 
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
 <a href="https://github.com/jvmntr" title="Perfil do João 'Jvmntr' Monteiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvmntr&theme=tokyonight&show_icons=true" />
+  <img height="180em" 
+  <img height="180em" 
+  <img height="180em" 
 </a>
+
 
 <!--
 **Jvmntr/Jvmntr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
