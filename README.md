@@ -1,7 +1,7 @@
 
 # 👨🏻‍💻 Sobre mim
 
-Desenvolvedor fullstack com 3 anos de experiência, criando soluções web completas com foco em performance e boas práticas.
+  Desenvolvedor fullstack com 3 anos de experiência, criando soluções web completas com foco em performance e boas práticas.
 Atuo do front ao back, unindo design funcional e código eficiente.
 
 
@@ -41,14 +41,23 @@ Atuo do front ao back, unindo design funcional e código eficiente.
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
+# 🎓 Formação acadêmica
+
+[<img align="left" height="94px" width="94px" alt="FIAP" src="https://avatars.githubusercontent.com/u/79948663?s=200&v=4"/>](https://www.spacex.com/)
+
+**Análise e desenvolvimento de sistemas** \
+[**FIAP**](https://www.fiap.com.br/) 
+Período • fev de 2022 - Fev de 2024 <br><br><br>
+
 # 💼 Experiência profissional
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://t.ctcdn.com.br/npouwF-3wxH1Bq5QyNtmaLKCPBM=/1080x1080/smart/i654119.png"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="IBM" src="https://t.ctcdn.com.br/npouwF-3wxH1Bq5QyNtmaLKCPBM=/1080x1080/smart/i654119.png"/>](https://www.spacex.com/)
 
 **Desenvolvedor de Software Fullstack** \
 [**IBM**](https://www.ibm.com/br-pt) • Full-time <br>
 Período • Jan de 2022 - Fev de 2025 <br>
 Linguagens & Tecnologias: `ReactJS`, `NodeJS`, `Typescript`, `JavaScript`, `PostgreSQL`, `React Native`, `MongoDB`, `Java`, `Jest`
+
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/jvmntr/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação. <br>
 
