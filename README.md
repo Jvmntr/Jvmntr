@@ -94,13 +94,10 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/jvmntr/) para u
   </tr>
 </table>
 
-<a href="https://github.com/jvmntr" title="Perfil do João 'Jvmntr' Monteiro">
-  <img height="180em" 
-  <img height="180em" 
-  <img height="180em" 
-</a>
+# Onde me encontrar
 
-
+[![Linkedin](https://img.shields.io/badge/-Jvmntr-333333?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jvmntr/)](https://www.linkedin.com/in/jvmntr/)
+[![Gmail Badge](https://img.shields.io/badge/-jvmntr.email.com@gmail.com-333333?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jvmntr.email.com@gmail.com)](mailto:jvmntr.email.com@gmail.com)
 <!--
 **Jvmntr/Jvmntr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
