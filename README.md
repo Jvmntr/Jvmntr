@@ -85,12 +85,6 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/jvmntr/) para u
         alt="Github Stats"
       />
     </td>
-    <td>
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=jvmntr&theme=tokyonight&hide_border=false" 
-        alt="Github Stats"
-      />
-    </td>
   </tr>
 </table>
 
