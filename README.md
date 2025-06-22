@@ -49,12 +49,26 @@ Atuo do front ao back, unindo design funcional e código eficiente.
 
 # 🎓 Formação acadêmica
 
-[<img align="left" height="94px" width="94px" alt="FIAP" src="https://avatars.githubusercontent.com/u/79948663?s=200&v=4"/>](https://www.spacex.com/)
+<img align="left" height="94px" width="94px" alt="FIAP" src="https://avatars.githubusercontent.com/u/79948663?s=200&v=4"/>
 
 **Análise e desenvolvimento de sistemas** \
-[**FIAP**](https://www.fiap.com.br/) <br>
+[**FIAP - Faculdade de Informática e Administração Paulista**](https://www.fiap.com.br/) <br>
 Período • fev de 2022 - Fev de 2024 <br>
 A FIAP é uma faculdade referência em tecnologia. O curso de ADS foca em programação, sistemas e inovação.<br><br>
+
+<img align="left" height="94px" width="94px" alt="CEAP" src="https://media.licdn.com/dms/image/v2/D4D0BAQFTbrizdYq6yA/company-logo_200_200/company-logo_200_200/0/1719251009103/ceappedreira_logo?e=2147483647&v=beta&t=3pwwH1NBJqkiyfUnd710iBg214lARzHN4VLEH2IB3i8"/>
+
+**Técnico em Informática** \
+[**CEAP - Centro Educacional Assistencial e Profissionalizante**](https://ceappedreira.org.br/) <br>
+Período • Fev de 2019 - Dez de 2021 <br>
+Curso técnico de Informática pelo CEAP, voltado ao desenvolvimento e lógica de programação.<br><br>
+
+<img align="left" height="94px" width="94px" alt="SAGA" src="https://media.licdn.com/dms/image/v2/D4D0BAQFCZZd5DcLSjg/company-logo_200_200/B4DZW1ZDjSHAAM-/0/1742505000081/escolasaga_logo?e=2147483647&v=beta&t=NTOab1F7nyMYXaX0IbENzbjWAhAQjUlHr6TBQXhlok4"/>
+
+**Computação gráfica e design** \
+[**SAGA - School of Art Games and Animation**](https://saga.com.br/) <br>
+Período • Fev de 2019 - Dez de 2021 <br>
+Curso técnico de Computação Gráfica e Design pela SAGA, com ênfase em design digital e criação visual.<br><br>
 
 
 # 💼 Experiência profissional
